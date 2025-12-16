@@ -1,0 +1,49 @@
+# Loggins & Messina – Your Mama Don't Dance
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.97] Your mama don't dance and your daddy don't rock and roll
+[00:22.12] Your mama don't dance and your daddy don't rock and roll
+[00:28.38] But when evening rolls around and it's time to hit the town
+[00:31.66] Where do you go? You gotta rock it
+[00:48.66] 
+[00:34.82] The old folks say that
+[00:36.34] You gotta end your date by ten
+[00:40.82] But if you're out on a date
+[00:42.67] Don't you bring her home late 'cause it's a sin
+[00:47.69] You know there's no excuse
+[00:49.20] You should know you're gonna lose, you never win
+[00:52.20] I'll say it again
+[00:53.12] And it's all because
+[01:03.12] 
+[00:54.33] Your mama don't dance and your daddy don't rock and roll
+[01:00.69] Your mama don't dance and your daddy don't rock and roll
+[01:06.95] But when evening rolls around and it's time to hit the town
+[01:09.65] Where do you go? You gotta rock it
+[01:26.65] 
+[01:32.41] Ya I pulled into a drive-in and I found a place to park
+[01:35.89] We hopped into the backseat where it's always nice and dark
+[01:39.13] We're just about to move thinking "Bret, this is a breeze"
+[01:42.38] There's a light in my eye and a guy says
+[01:43.85] "Out of the car, long hair!"
+[01:57.85] 
+[01:45.12] Oowee, you're coming with me
+[01:47.82] Said the local police
+[01:58.32] 
+[01:50.62] And it's all because
+[01:51.69] Your mama don't dance and your daddy don't rock and roll
+[01:58.17] Your mama don't dance and your daddy don't rock and roll
+[02:04.15] But when evening comes around and it's time to hit the town
+[02:07.44] Where do you go?
+[02:08.81] Play me a little C.C.
+[02:19.31] 
+[02:30.25] Your mama don't dance and your daddy don't rock and roll
+[02:33.60] Your mama don't dance and your daddy don't rock and roll
+[02:36.79] You just ain't cool, and you ain't about to sulk
+[02:40.16] Your mama don't dance and your daddy don't rock
+[02:42.99] Your mama don't dance, no
+[02:46.14] She just don't dance, no
+[02:49.19] Your mama don't dance and your daddy don't rock and roll
+[02:54.72] Ah, yeah
+```
