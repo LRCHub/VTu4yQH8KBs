@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Your Mama Don't Dance",
+  "base_artist": "Loggins & Messina",
+  "createdAt": "2025-12-16T01:37:30.871120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/01_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/02_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/03_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/04_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/05_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Loggins & Messina",
+      "has_synced": true,
+      "path": "select/06_Your_Mama_Don't_Dance_Loggins_&_Messina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Poison - Your Mama Don't Dance",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/07_Poison_-_Your_Mama_Don't_Dance_VA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "06 - Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/08_06_-_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your mama don't dance",
+      "artist": "Loggins & Messina",
+      "has_synced": true,
+      "path": "select/09_Your_mama_don't_dance_Loggins_&_Messina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Brenda Lee",
+      "has_synced": false,
+      "path": "select/10_Your_Mama_Don't_Dance_Brenda_Lee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/11_Your_Mama_Don't_Dance_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/12_Your_Mama_Don't_Dance_Poison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Your Mama Don't Dance",
+      "artist": "Loggins & Messina",
+      "has_synced": false,
+      "path": "select/pl_01_Your_Mama_Don't_Dance_Loggins_&_Messina.txt"
+    }
+  ]
+}
